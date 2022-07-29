@@ -1,3 +1,8 @@
+## pokedex made in angular and less
+
+![](./src/angular_pokedex_1.png)
+![](./src/angular_pokedex_2.png)
+
 # PokedexAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.

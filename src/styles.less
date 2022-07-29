@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+@red : #e24949;
+@white : #fff;
+@black : #111;
+
+.reset_pm{
+    margin: 0;
+    padding: 0;
+}
+
+*{
+    .reset_pm();
+}
+
+body{
+    background: @white;
+    color: @black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;   
+}
